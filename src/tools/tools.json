@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Profile Links",
+        "category": "character",
+        "page": "./character/profiles.js"
+    },
+    {
+        "name": "Config Management",
+        "category": "Game Install",
+        "page": "./game/config.js"
+    }    
+]
